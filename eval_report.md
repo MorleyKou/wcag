@@ -112,7 +112,7 @@ more
 3.3.5	Help	AAA
 3.3.6	Error Prevention (All)	AAA
 ![Image](/img/3_3_1_01.png "example 3.3.1 01")
-![Image](/img/3_3_1_02.png "example 3.3.2 01")
+
 
 ### Compatible
 4.1.1	Parsing	A
