@@ -1,5 +1,3 @@
-# 高嘉恆
-
 # Website name
 https://www.gov.hk/
 ## Scope of the website
