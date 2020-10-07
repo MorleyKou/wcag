@@ -26,6 +26,7 @@ Level AA
 
 ### 1.3.1	Info and Relationships	A
 H42: Using h1-h6 to identify headings
+Ref: https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=131
 ![Image](/img/1_3_1_01.png "example 1.3.1 01")
 
 more
